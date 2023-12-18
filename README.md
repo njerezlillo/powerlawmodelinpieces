@@ -16,3 +16,6 @@ pwpowerlaw.R: Contains all the main functions related to the piecewise power-law
 2.- "generation_samples.R": Contains the codes used to generate and export all the replicas used (to reduce computational time).
 
 3.- "cod_simulation_study.R": Contains the programming for the tables in the simulation study.
+
+## Reference
+Ramos, P.L., Jerez-Lillo, N., Segovia, F.A. et al. Power-law distribution in pieces: a semi-parametric approach with change point detection. Stat Comput 34, 16 (2024). https://doi.org/10.1007/s11222-023-10336-x
