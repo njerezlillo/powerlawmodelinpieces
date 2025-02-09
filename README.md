@@ -21,4 +21,4 @@ pwpowerlaw.R: Contains all the main functions related to the piecewise power-law
 
 [**Power-law distribution in pieces: a semi-parametric approach with change point detection**](https://doi.org/10.1007/s11222-023-10336-x)  
 *Ramos, P.L., Jerez-Lillo, N., Segovia, F.A, Egbon O., Louzada F.*  
-Statistics and Computing
+Statistics and Computing 34, 16 (2024). 
